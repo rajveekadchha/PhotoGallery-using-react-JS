@@ -1,0 +1,41 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "adalaj.jpg",
+      "caption"  : "Adalaj step well",
+      "location" : "Adalaj, Gujarat"
+    },
+
+    {
+      "src"      : "patan.jpg",
+      "caption"  : "Ranki Vav",
+      "location" : "Patan, Gujarat"
+    },
+
+    {
+      "src"      : "clg.jpeg",
+      "caption"  : "SEAS",
+      "location" : "Ahmedabad, Gujarat"
+    },
+
+    {
+      "src"      : "clg.jpg",
+      "caption"  : "SEAS",
+      "location" : "Ahmedabad, Gujarat"
+    },
+
+    {
+      "src"      : "unknown.jpg",
+      "caption"  : "Wanderlust",
+      "location" : "Unknown"
+    },
+
+    {
+      "src"      : "hostel.jpg",
+      "caption"  : "Finding",
+      "location" : "Somewhere"
+    }
+    
+  ]
+}
